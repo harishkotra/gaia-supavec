@@ -2,6 +2,9 @@
 
 A powerful document question-answering system that combines Supavec's RAG capabilities with Gaia's language understanding. This system enables intelligent conversations with your documents through semantic search and natural language processing.
 
+![image](https://github.com/user-attachments/assets/d3069ce5-a8eb-4cc5-90b0-1ec926ca9c55)
+![image](https://github.com/user-attachments/assets/6c9075f2-784b-4da8-9938-15cbb792b81c)
+
 ## Project Structure
 
 The project is divided into two main parts:
@@ -78,5 +81,5 @@ The project is divided into two main parts:
 
 ## Acknowledgments
 
-- [Supavec](https://www.supavec.com/) team for the RAG infrastructure
+- [Supavec](https://www.supavec.com/) team for the RAG infrastructure (@supavec on [github](https://github.com/taishikato/supavec))
 - [Gaia](https://www.gaianet.ai/) for the simple infra to launch local LLMs or use Public nodes.
